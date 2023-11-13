@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/Vanitha-SM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119557985/79469e9a-2cd2-40f3-9f68-87bcbce6696e)
+![image](https://github.com/Vanitha-SM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119557985/d353ee67-03d8-4d11-b32b-e4bf7814e923)
 
 
-### Name:
-### Register Number:
+### Name:Vanitha S
+### Register Number:212222100057
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
