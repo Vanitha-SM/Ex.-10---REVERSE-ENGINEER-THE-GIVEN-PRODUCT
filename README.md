@@ -42,8 +42,10 @@ After generate the gcode format then follow the these instruction
 
 
 ### Output:
-![image](https://github.com/Vanitha-SM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119557985/79469e9a-2cd2-40f3-9f68-87bcbce6696e)
+
 ![image](https://github.com/Vanitha-SM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119557985/d353ee67-03d8-4d11-b32b-e4bf7814e923)
+![image](https://github.com/Vanitha-SM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119557985/79469e9a-2cd2-40f3-9f68-87bcbce6696e)
+
 
 ```
  Name:Vanitha S
